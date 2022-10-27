@@ -1,0 +1,206 @@
+#+Title: Economics Syllabus
+#+Author: Wylited
+
+* Economics Syllabus
+** Microeconomics
+*** The Market System
+**** The Economic Problem
+1. The problem of scarcity
+2. Opportunity cost and its effect
+3. Production possibility curve
+4. Economic Growth
+
+**** Economic Assumptions
+1. The assumptions of consumer and producer aims
+2. Why consumers and producers may not reach their aims
+
+**** Demand Supply and Market Equilibrium
+1. Demand
+   1. Demand curves
+   2. Factors that affect demand
+
+2. Supply
+   1. Supply curves
+   2. Factors that affect supply
+
+3. Market Equilibrium
+   1. Equilibrium price and quantity
+   2. Diagrams for
+      1. How shifts in supply and demand affect equilibrium price
+      2. Excess demand and supply
+
+   3. Market forces
+
+**** Elasticity
+1. Price Elasticity of Demand
+   1. Factors of PED
+   2. Interpret numerical values of PED
+
+2. Price Elasticity of Supply
+   1. Factors of PES
+   2. Interpret numerical values of PES
+
+3. Income Elasticity of Demand
+   1. Factors of YED
+   2. Interpret numerical of YED
+
+**** The Mixed Market
+1. Mixed economy
+2. Public sector
+   1. Aims and control
+   2. Public goods
+
+3. Private sector
+   1. Aims and control
+   2. Private goods
+
+4. Market Failure
+5. Privatization
+
+**** Externalities
+1. Cost of production
+   1. External
+   2. Private
+
+2. Benefits of consumption
+   1. External
+   2. Private
+
+3. Social costs and benefits
+
+*** Business Economics
+**** Production
+1. Factors of production
+2. Sectors of the economy
+3. Changes in the economy
+4. Sector growth
+
+**** Productivity and Division of Labour
+1. Productivity and factors
+2. Division of labour
+   1. Advantages and disadvantages of DoL
+
+**** Business costs, Revenues and Profit
+1. Total revenue. Total, fixed, variable, average costs. profits
+2. Economies of scale
+   1. Internal
+      1. Purchasing
+      2. Technical
+      3. Managerial
+      4. Marketing
+      5. Financial
+      6. Risk bearing
+
+   2. External
+      1. Skilled labour
+      2. Infrastructure
+      3. Access to suppliers
+      4. Similar businesses
+
+3. Diseconomies of Scale
+   1. Bureaucracy
+   2. communication problems
+   3. Lack of control
+   4. Distance between employees
+
+4. Long run average cost (lrac)
+
+**** Business competition
+1. Advantages and disadvantages of competitive markets
+2. Advantages and disadvantages of firm sizes
+3. Factors influencing the growth of firms
+4. Reasons firms stay small
+5. Monopolies
+6. Advantages and disadvantages of monopolies
+7. Oligopoly
+8. Advantages and disadvantages of oligopolies
+
+**** The Labour Market
+1. Factors affect demand and supply of labour
+2. Quantity and quality of labour
+3. Educations impact on human capital and quality of labour
+4. Labour market diagrams
+5. Trade union
+
+**** Government intervention
+1. Government policies to deal with externalities
+2. Advantages and disadvantages of these policies
+3. Government regulation of competition
+4. Government Intervention in the labour market.
+
+** Macroeconomics
+*** Government and the Economy
+**** Macroeconomic Objectives
+1. Economic growth
+   1. Gross domestic product
+   2. Limitations of GDP
+   3. Economic cycle
+   4. Effects of parts of the economic cycle on
+      1. Employments
+      2. Standards of living
+      3. Poverty
+      4. Productive potential
+      5. Inflation
+      6. Environment
+
+   5. Inflation and Deflation
+      1. consumer price index
+      2. Rate of inflation
+      3. Types of inflation
+         1. Demand-pull
+         2. cost-push
+
+      4. Inflation and interest rates
+      5. Impact of inflation on
+         1. Price
+         2. Wages
+         3. Exports
+         4. Unemployment
+         5. Menu costs
+         6. Shoe leather costs
+         7. Uncertainty
+         8. Business and customer confidence
+         9. Investment
+
+   6. Unemployment
+      1. ILO measurement
+      2. Types
+         1. cyclical
+         2. Structural
+         3. Seasonal
+         4. Voluntary
+         5. Frictional
+
+      3. Effects on
+         1. Output
+         2. Usage of scarce resources
+         3. Poverty
+         4. Government spending
+         5. Tax revenue
+         6. Business and consumer confidence
+         7. Society and standards of living
+
+
+**** Government Policies
+1. Fiscal policy
+   1. Government revenue
+   2. Government expenditure
+   3. Fiscal deficits and surpluses
+   4. Impacts of fiscal deficit surpluses
+   5. Impact of fiscal policy on macroeconomic objectives
+2. Monetary policy
+   1. Interest rates
+   2. central banks role in setting interest rates
+   3. Impact of changes in interest rates on macroeconomic objectives
+      1. The mechanism by which a change in interest rate affects consumers and businesses
+      2. Awareness of asset purchasing used by central banks.
+3. Supply side policy.
+
+**** Relationship between Objectives and Policies
+
+*** The Global Economy
+**** Globalization
+
+**** International Trade
+
+**** Exchange Rates
