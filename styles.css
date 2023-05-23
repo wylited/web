@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  line-height: 1;
+  background-color: #090c11;
+  min-width: 320px;
+  font-family: 'JetBrainsMonoNerd', monospace;
+  text-align: center;
+}
+
+.container {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 100%;
+  width: 100%;
+}
+
+.container:after {
+  line-height: 1;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  /* border-left: 2px solid #FFF; */
+  transform: translate(-50%);
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 27%;
+  min-width: 300px;
+  border-top: 2px solid #bfbde1;
+  border-bottom: 2px solid #bfbde1;
+}
+
+p {
+    margin-left: 15px;
+    color: #E5E1CF;
+}
+
+a {
+  color: #5FDFFF;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    color: #E5E1CF;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  color: #E9FE83;
+  font-size: 28px;
+  font-weight: 550;
+}
+
+@font-face {
+  font-family: "JetBrainsMonoNerd";
+  src: url('assets/JetBrainsMonoNerd.tff') format('truetype');
+}
+
+table {
+  width: 100%;
+  table-layout: fixed
+}
+
+.icon {
+  font-size: 48px;
+  font-weight: 500;
+  text-decoration:none
+}
+
+/* align the quick link div center */
+.quicklinks {
+  text-align: center;
+}
