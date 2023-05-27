@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+    font-family: 'JetBrainsMonoNerd', "Courier New", Courier, monospace;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1;
+    background-color: #0f0f0f;
+    min-width: 320px;
+    text-align: center;
+  }
+
+@font-face {
+    font-family: "JetBrainsMonoNerd";
+    src: url('../JetBrainsMonoNerd.tff') format('truetype');
+}
+
+.container {
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 100%;
+  width: 100%;
+}
+
+.container:after {
+  line-height: 1;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 60%;
+  transform: translate(-50%);
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 27%;
+  min-width: 300px;
+  border-top: 2px solid #4c4c4c;
+  border-bottom: 2px solid #4c4c4c;
+}
+
+p {
+    margin-left: 15px;
+    color: #e7e7e7;
+}
+
+a {
+  color: #71cccf;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    color: #f0f0f0;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h2 {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  color: #f0f0f0;
+  font-size: 28px;
+  font-weight: 550;
+}
