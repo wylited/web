@@ -12,12 +12,12 @@
       <table class="w-full leading-7">
         <tr>
           <td class="text-center">
-            <a class="text-6xl text-accent" href="https://blog.wyli.tech/2023">Δ</a>
-            <div class="text-accent">2023</div>
+            <a class="text-6xl text-warning" href="https://blog.wyli.tech/2023">Δ</a>
+            <div class="text-warning">2023</div>
           </td>
           <td class="text-center">
-            <a class="text-6xl text-warning" href="https://blog.wyli.tech/2023">φ</a>
-            <div class="text-warning">2024</div>
+            <a class="text-6xl text-accent" href="https://blog.wyli.tech/2023">φ</a>
+            <div class="text-accent">2024</div>
           </td>
         </tr>
       </table>
