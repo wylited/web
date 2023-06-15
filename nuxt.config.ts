@@ -4,6 +4,6 @@ export default defineNuxtConfig({
         '@/assets/css/main.css',
     ],
     modules: [
-        '@nuxtjs/tailwindcss'
+        '@nuxtjs/tailwidcss'
     ],
 })

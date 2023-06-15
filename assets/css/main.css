@@ -17,7 +17,7 @@ body {
 
 @font-face {
     font-family: "JetBrainsMonoNerd";
-    src: url('../JetBrainsMonoNerd.tff') format('truetype');
+    src: url('../JetBrainsMonoNerd.woff2') format('woff2');
 }
 
 .container {
