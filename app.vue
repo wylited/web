@@ -26,7 +26,7 @@
         <h2 class="text-3xl text-primary py-3 underline">quick links</h2>
         <p class="py-1"> &lt;-&lt; <a href="https://notes.wyli.tech"><strong>notes</strong></a> &gt;-&gt; </p>
         <p> &lt;-&lt; <a href="https://blog.wyli.tech"><strong>blogs</strong></a> &gt;-&gt; </p>
-        <p> &lt;-&lt; <a href="https://oneshots.wyli.tech"><strong>oneshot stories (coming soon)</strong></a> &gt;-&gt; </p>
+        <p> &lt;-&lt; <a href="https://shots.wyli.tech"><strong>1shots</strong></a> &gt;-&gt; </p>
         <p> &lt;-&lt; <a href="/about"><strong>about</strong></a> &gt;-&gt; </p>
       </div>
     </Hero>
