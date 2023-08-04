@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "daisyui": "^2.51.6",
-    "pnpm": "^8.5.1"
+    "pnpm": "^8.6.8"
   }
 }
