@@ -4,7 +4,7 @@
       <h1 class="text-4xl text-secondary py-6"> echo <u style="color: #ACA98A">~</u> <strong style="color: #cacaca" >/home/wyli</strong></h1>
       <p class="py-3">wylited</p>
       <p class="text-base-100">dhairya</p>
-      <p class="py-3">International Bacculearte 'm25</p>
+      <p class="py-3">International Baccalaureate 'm25</p>
       <p class="text-base-100">Math AA Hl, Physics Hl, Comp Sci Hl, Econ Hl</p>
 
       <h2 class="text-3xl text-primary py-6 underline">blogs</h2>
